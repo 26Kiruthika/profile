@@ -1,0 +1,45 @@
+#middle{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 1750px;
+    font-size: x-large;
+    text-align: center;
+    border-radius: 200px;
+}
+#con{
+    background-color: red;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+}
+#topic{
+    color: red;
+}
+#ul{
+    color: black;
+    font-size: smaller;
+}
+#h{
+   float: right;
+   display: flex;
+   margin-right: 700px;
+   margin-left: 100px;
+   margin-top: 200px;
+   margin-bottom:5px;
+   font-size: xx-large;
+   
+}
+p{
+    float: right;
+   display: flex;
+   flex-direction: column;
+   margin-right: 100px;
+   margin-left: 800px;
+   margin-top: -500px;
+   font-size: x-large;
+}
+#center{
+    background-color: grey;
+}
